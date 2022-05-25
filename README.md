@@ -6,4 +6,4 @@ PURPOSE: Repository includes necessary resources for my personal Bibliography we
 - CSS File
 - Folder containing any images,videos, etc.
 
-This was an exercise in basic web development and styling for seldf advertising.
+This was an exercise in basic web development and styling for self advertising.
